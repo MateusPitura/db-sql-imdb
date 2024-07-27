@@ -42,7 +42,7 @@ The data was downloaded from [CS50](https://cs50.harvard.edu/x/2023/psets/7/movi
 
 4. `exit`
 
-5. `cd ./dump`
+5. `cd dump/`
 
 6. `mysql -u <username> -p imdb < imdb.sql` 
 
