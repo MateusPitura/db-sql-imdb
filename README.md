@@ -11,7 +11,7 @@
 
 ## Description
 
-This repo contains a dump of MySQL with **407,431** movies, **1,252,264** people, and more, all related. The goal is to provide a large dataset for computer science students to compare queries and their efficiency
+This repo contains a dump of MySQL with **407,431** movies, **1,252,264** people, and more, all related. The goal is to provide a large dataset for computer science students to compare queries
 
 The data was downloaded from [CS50](https://cs50.harvard.edu/x/2023/psets/7/movies/), a course at Harvard University. The data was in SQLite3, but has been converted to MySQL for ease of use. It's possible to download the original data from the [IMDb site](https://developer.imdb.com/non-commercial-datasets/)
 
