@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/stars/MateusPitura/db-sql-imdb?style=social"> 
 </p> 
 
-> :checkered_flag: This project is finished :checkered_flag:  
-
 ## Description
 
 This repo contains a dump of MySQL and Postgres with **407,431** movies, **1,252,264** people, and more, all related. The goal is to provide a large dataset for computer science students to compare queries
