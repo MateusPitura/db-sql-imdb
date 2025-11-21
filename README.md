@@ -3,7 +3,7 @@
 </h1> 
 
 <p> 
-  <img src="https://img.shields.io/badge/Release-July%202024-green">  
+  <img src="https://img.shields.io/badge/Release-Jul%202024-green">  
   <img src="https://img.shields.io/github/stars/MateusPitura/db-sql-imdb?style=social"> 
 </p> 
 
